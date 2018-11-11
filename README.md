@@ -1,3 +1,3 @@
-# Lab8_mySql
+# Ass8_mySql
 
-link video: https://drive.google.com/file/d/1KzSPTUHvh2U2NLSrTeRHNWT4wyVlT1DW/view?usp=sharing
+link video: https://drive.google.com/file/d/1goMgGWSH_j1MnKclXJLPxrkx3JqVwRam/view?usp=sharing
